@@ -1,0 +1,43 @@
+body {
+    padding: 10px;
+    margin: 10px;
+    background-color: #bfb2a2;
+}
+
+a {
+    color:#245e87;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #bfb2a2;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bolder;
+}
+
+p {
+    margin: 15px;
+}
+
+li {
+    font-weight: bold;
+    font-size: large;
+}
+
+th, td {
+    border-color: #245e87;
+    border-style: solid;
+    border-width: 5px;
+    padding: 8px;
+}
+
+table {
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+}
